@@ -1,4 +1,4 @@
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelrochabh&show_icons=true&theme=dark&hide=prs) [![trophy](https://github-profile-trophy.vercel.app/?username=miguelrochabh)](https://github.com/ryo-ma/github-profile-trophy)
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelrochabh&show_icons=true&theme=dark&hide=prs) [![trophy](https://github-profile-trophy.vercel.app/?username=miguelrochabh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Ocupação: Game Dev, Estudante</br>
