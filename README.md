@@ -13,7 +13,7 @@
 
 - uses: lowlighter/metrics@latest
   with:
-    # ... other options
+    # Tópicos preferidos
     plugin_topics: yes
     plugin_topics_sort: stars    # Sort by most starred topics
     plugin_topics_mode: mastered # Display icons instead of labels
