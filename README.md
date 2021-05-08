@@ -10,11 +10,5 @@
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-  with:
-    # Tópicos preferidos
-    plugin_topics: yes
-    plugin_topics_sort: stars    # Sort by most starred topics
-    plugin_topics_mode: mastered # Display icons instead of labels
-    plugin_topics_limit: 0       # Disable limitations
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=miguelrochabh&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
